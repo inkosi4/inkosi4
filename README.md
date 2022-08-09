@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alexis
+- 👀 I’m interested in development web and app.
+- 🌱 I’m currently learning about videogames and news.
+- 💙 AL
+- ✅ PLSQL & Oracle Form
